@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Anjay P. P . I'm an aspiring software engineer. 
+Hi there, I'm Anjay P.P. I'm an Aspiring Software Engineer. 
 
 
 # 💻 Tech Stack:
